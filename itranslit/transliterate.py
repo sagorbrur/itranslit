@@ -541,7 +541,7 @@ class Translit:
         if model:
             self.model_path = model
         else:
-            self.model_path = "./itranlit-models"+"/"+lang+".pth"
+            self.model_path = "itranlit-models"+"/"+lang+".pth"
             if not os.path.exists(self.model_path):
                 model_id = LANGDATA[self.lang]['model_url']
                 download_model_and_get_path(self.lang, model_id)

@@ -40,7 +40,7 @@ def save_response_content(response, destination):
                 f.write(chunk)
 
 def download_model_and_get_path(lang, model_id):
-    save_path = "./itranlit-models"
+    save_path = "itranlit-models"
     os.makedirs(save_path, exist_ok=True)
     model_path = save_path+"/"+lang+".pth"
     msg.info(f"{lang} model downloading inside {save_path}..")
