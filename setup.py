@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name="itranslit",
-    version="1.0.1",
+    version="1.0.2",
     author="Sagor Sarker",
     author_email="sagorhem3532@gmail.com",
     description="iTRANSLIT is a deep learning based transliteration package for indic language",

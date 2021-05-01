@@ -1,4 +1,4 @@
-__version__="1.0.1"
+__version__="1.0.2"
 
 from wasabi import msg
 from itranslit.utils import is_torch_available
