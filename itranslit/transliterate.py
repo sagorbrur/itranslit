@@ -535,6 +535,8 @@ def load_pretrained(model, weight_path, flexible = False):
 class Translit:
     def __init__(self, lang, model=None):
         self.lang = lang
+        if self.lang not in LANGDATA:
+            raise Exception(f"{self.lang} is not in supported list\n select from {LANGDATA.keys()}")
         self.device = "cpu"
         if model:
             self.model_path = model

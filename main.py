@@ -1,6 +1,6 @@
 from itranslit.transliterate import Translit
 
-trans = Translit('bn')
+trans = Translit('ta')
 
 res = trans.predict('ami')
 print(res)
