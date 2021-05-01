@@ -3,6 +3,13 @@ import os
 import requests
 from wasabi import msg
 
+try:
+    import torch
+    _torch_available = True  
+    msg.info(f"PyTorch version {torch.__version__} available.")
+except ImportError:
+    _torch_available = False 
+
 def download_file_from_google_drive(id, destination):
     URL = "https://docs.google.com/uc?export=download"
 
@@ -46,3 +53,7 @@ def download_model_and_get_path(lang, model_id):
     except Exception as e:
         print(e)
         msg.fail(f"Fail to download {lang} model. please check exception")
+
+ 
+def is_torch_available():
+	return _torch_available
