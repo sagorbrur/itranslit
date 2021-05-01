@@ -4,13 +4,13 @@ import setuptools
 
 setuptools.setup(
     name="itranslit",
-    version="1.0.0",
+    version="1.0.1",
     author="Sagor Sarker",
     author_email="sagorhem3532@gmail.com",
     description="iTRANSLIT is a deep learning based transliteration package for indic language",
     long_description=codecs.open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/sagorbrur/bntranslit",
+    url="https://github.com/sagorbrur/itranslit",
     license="MIT",
     packages=setuptools.find_packages(),
     classifiers=[
