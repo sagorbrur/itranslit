@@ -1,0 +1,40 @@
+gu_test.json
+
+TOP 10 SCORES FOR 10229 SAMPLES:
+ACC:          0.789031
+Mean F-score: 0.955859
+MRR:          0.518305
+MAP_ref:      0.374037
+
+gu_test.json
+
+TOP 5 SCORES FOR 10229 SAMPLES:
+ACC:          0.711898
+Mean F-score: 0.943296
+MRR:          0.507775
+MAP_ref:      0.374037
+
+gu_test.json
+
+TOP 3 SCORES FOR 10229 SAMPLES:
+ACC:          0.629583
+Mean F-score: 0.928219
+MRR:          0.488888
+MAP_ref:      0.374037
+
+gu_test.json
+
+TOP 2 SCORES FOR 10229 SAMPLES:
+ACC:          0.550298
+Mean F-score: 0.911055
+MRR:          0.462460
+MAP_ref:      0.374016
+
+gu_test.json
+
+TOP 1 SCORES FOR 10229 SAMPLES:
+ACC:          0.374621
+Mean F-score: 0.870270
+MRR:          0.374621
+MAP_ref:      0.372813
+

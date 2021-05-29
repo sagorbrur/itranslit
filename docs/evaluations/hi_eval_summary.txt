@@ -1,0 +1,40 @@
+hi_test.json
+
+TOP 10 SCORES FOR 4442 SAMPLES:
+ACC:          0.817650
+Mean F-score: 0.958735
+MRR:          0.558970
+MAP_ref:      0.420932
+
+hi_test.json
+
+TOP 5 SCORES FOR 4442 SAMPLES:
+ACC:          0.741783
+Mean F-score: 0.945324
+MRR:          0.548488
+MAP_ref:      0.420932
+
+hi_test.json
+
+TOP 3 SCORES FOR 4442 SAMPLES:
+ACC:          0.667492
+Mean F-score: 0.930766
+MRR:          0.531367
+MAP_ref:      0.420932
+
+hi_test.json
+
+TOP 2 SCORES FOR 4442 SAMPLES:
+ACC:          0.588924
+Mean F-score: 0.913549
+MRR:          0.505178
+MAP_ref:      0.420899
+
+hi_test.json
+
+TOP 1 SCORES FOR 4442 SAMPLES:
+ACC:          0.421432
+Mean F-score: 0.871927
+MRR:          0.421432
+MAP_ref:      0.419823
+

@@ -1,0 +1,40 @@
+pa_test.json
+
+TOP 10 SCORES FOR 6880 SAMPLES:
+ACC:          0.794331
+Mean F-score: 0.950830
+MRR:          0.496028
+MAP_ref:      0.348946
+
+pa_test.json
+
+TOP 5 SCORES FOR 6880 SAMPLES:
+ACC:          0.698110
+Mean F-score: 0.930032
+MRR:          0.482856
+MAP_ref:      0.348946
+
+pa_test.json
+
+TOP 3 SCORES FOR 6880 SAMPLES:
+ACC:          0.600145
+Mean F-score: 0.907424
+MRR:          0.460320
+MAP_ref:      0.348946
+
+pa_test.json
+
+TOP 2 SCORES FOR 6880 SAMPLES:
+ACC:          0.513808
+Mean F-score: 0.884877
+MRR:          0.431541
+MAP_ref:      0.348930
+
+pa_test.json
+
+TOP 1 SCORES FOR 6880 SAMPLES:
+ACC:          0.349273
+Mean F-score: 0.833894
+MRR:          0.349273
+MAP_ref:      0.347545
+

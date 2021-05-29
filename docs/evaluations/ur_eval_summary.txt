@@ -1,0 +1,40 @@
+ur_test.json
+
+TOP 10 SCORES FOR 10327 SAMPLES:
+ACC:          0.773991
+Mean F-score: 0.945565
+MRR:          0.472408
+MAP_ref:      0.326523
+
+ur_test.json
+
+TOP 5 SCORES FOR 10327 SAMPLES:
+ACC:          0.672703
+Mean F-score: 0.924515
+MRR:          0.458536
+MAP_ref:      0.326523
+
+ur_test.json
+
+TOP 3 SCORES FOR 10327 SAMPLES:
+ACC:          0.573351
+Mean F-score: 0.899964
+MRR:          0.435848
+MAP_ref:      0.326523
+
+ur_test.json
+
+TOP 2 SCORES FOR 10327 SAMPLES:
+ACC:          0.487944
+Mean F-score: 0.875216
+MRR:          0.407379
+MAP_ref:      0.326490
+
+ur_test.json
+
+TOP 1 SCORES FOR 10327 SAMPLES:
+ACC:          0.326813
+Mean F-score: 0.822018
+MRR:          0.326813
+MAP_ref:      0.325369
+

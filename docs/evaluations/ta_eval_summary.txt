@@ -1,0 +1,40 @@
+ta_test.json
+
+TOP 10 SCORES FOR 6833 SAMPLES:
+ACC:          0.835943
+Mean F-score: 0.956225
+MRR:          0.675152
+MAP_ref:      0.583581
+
+ta_test.json
+
+TOP 5 SCORES FOR 6833 SAMPLES:
+ACC:          0.797014
+Mean F-score: 0.946746
+MRR:          0.669799
+MAP_ref:      0.583581
+
+ta_test.json
+
+TOP 3 SCORES FOR 6833 SAMPLES:
+ACC:          0.750476
+Mean F-score: 0.935897
+MRR:          0.658983
+MAP_ref:      0.583581
+
+ta_test.json
+
+TOP 2 SCORES FOR 6833 SAMPLES:
+ACC:          0.702034
+Mean F-score: 0.924670
+MRR:          0.642836
+MAP_ref:      0.583565
+
+ta_test.json
+
+TOP 1 SCORES FOR 6833 SAMPLES:
+ACC:          0.583638
+Mean F-score: 0.899568
+MRR:          0.583638
+MAP_ref:      0.583236
+

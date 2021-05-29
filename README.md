@@ -40,4 +40,4 @@ print(output)
 - Thanks to [AI4Bharat](https://github.com/AI4Bharat/IndianNLP-Transliteration) for providing training notebook with details explanation
 - We trained Google Dakshina lexicons train datasets for 10 epochs with batch size 128, 1e-3, embedding dim = 300, hidden dim = 512, lstm, used attention
 - We evaluated our trained model with Google Dakshina lexicon test data using [AI4Bharat evaluation script](https://raw.githubusercontent.com/AI4Bharat/IndianNLP-Transliteration/jgeob-dev/tools/accuracy_reporter/accuracy_news.py)
-- You can find evaluation summary [here]()
+- You can find evaluation summary [here](docs/evaluations)

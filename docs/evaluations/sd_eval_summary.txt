@@ -1,0 +1,40 @@
+sd_test.json
+
+TOP 10 SCORES FOR 6219 SAMPLES:
+ACC:          0.782763
+Mean F-score: 0.946510
+MRR:          0.495725
+MAP_ref:      0.356010
+
+sd_test.json
+
+TOP 5 SCORES FOR 6219 SAMPLES:
+ACC:          0.689661
+Mean F-score: 0.925886
+MRR:          0.483186
+MAP_ref:      0.356010
+
+sd_test.json
+
+TOP 3 SCORES FOR 6219 SAMPLES:
+ACC:          0.592700
+Mean F-score: 0.902107
+MRR:          0.460819
+MAP_ref:      0.356010
+
+sd_test.json
+
+TOP 2 SCORES FOR 6219 SAMPLES:
+ACC:          0.508120
+Mean F-score: 0.876910
+MRR:          0.432626
+MAP_ref:      0.355939
+
+sd_test.json
+
+TOP 1 SCORES FOR 6219 SAMPLES:
+ACC:          0.357131
+Mean F-score: 0.824407
+MRR:          0.357131
+MAP_ref:      0.353839
+
